@@ -46,10 +46,10 @@
 	"codigo padrão em C": {
 		"prefix": "mmain",
 		"body": [
-			"void main ()",
+			"void main()",
 			"{",
 			"    system(\"cls\");",
-			"    setlocale( LC_ALL, \"Portuguese\");",
+			"    setlocale(LC_ALL, \"Portuguese\");",
 			"    $0",
 			"}"
 		]
